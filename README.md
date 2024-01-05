@@ -1,16 +1,27 @@
-### Hi there 👋
+# ✨ Welcome to my GitHub page! ✨
 
-<!--
-**AlexB0ta/AlexB0ta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 💼 I am studying at TECHNICAL UNIVERSITY OF CLUJ-NAPOCA                                                  
+- 📫 How to reach me: alexbota950@yahoo.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## My Repositories
+
+Here are some of the projects I've been working on:
+
+### 1. [Repository Name 1](Link to Repository 1)
+
+Brief description of the project and its purpose.
+
+### 2. [Repository Name 2](Link to Repository 2)
+
+Brief description of the project and its purpose.
+
+### 3. [Repository Name 3](Link to Repository 3)
+
+Brief description of the project and its purpose.
+
+## Connect with Me
+
+- LinkedIn: Alex Ionut Bota](https://www.linkedin.com/in/alexb0ta/)
