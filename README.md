@@ -24,4 +24,4 @@ Brief description of the project and its purpose.
 
 ## Connect with Me
 
-- LinkedIn: Alex Ionut Bota](https://www.linkedin.com/in/alexb0ta/)
+- LinkedIn: [Alex Ionut Bota](https://www.linkedin.com/in/alexb0ta/)
