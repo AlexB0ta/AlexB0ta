@@ -10,9 +10,9 @@
 
 Here are some of the projects I've been working on:
 
-### 1. [Repository Name 1](Link to Repository 1)
+### 1. [SpringBootWebProject](https://github.com/AlexB0ta/SpringBootWebProject)
 
-Brief description of the project and its purpose.
+Full-stack web application showcasing my proficiency in various technologies that allow users to perform various operations on an Oracle database for efficient data management.
 
 ### 2. [Repository Name 2](Link to Repository 2)
 
