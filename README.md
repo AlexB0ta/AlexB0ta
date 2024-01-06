@@ -18,9 +18,9 @@ Full-stack web application showcasing my proficiency in various technologies tha
 
 A simple game with a GUI for entertainment purposes using a framework in assembly.
 
-### 3. [Repository Name 3](Link to Repository 3)
+### 3. [Snake Game](https://github.com/AlexB0ta/Snake-Game)
 
-Brief description of the project and its purpose.
+Classic arcade snake game created using Python Pygame library.
 
 ## Connect with Me
 
