@@ -22,6 +22,10 @@ A simple game with a GUI for entertainment purposes using a framework in assembl
 
 Classic arcade snake game created using Python Pygame library.
 
+### 4. [AntiTheftSystem-Arduino](https://github.com/AlexB0ta/AntiTheft-Arduino)
+
+Security and alarm system activated by various events
+
 ## Connect with Me
 
 - LinkedIn: [Alex Ionut Bota](https://www.linkedin.com/in/alexb0ta/)
