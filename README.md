@@ -33,3 +33,4 @@ Developed a project that showcases the implementation of a secure locker system.
 ## Connect with Me
 
 - LinkedIn: [Alex Ionut Bota](https://www.linkedin.com/in/alexb0ta/)
+- Instagram: [Alex Ionut Bota](https://www.instagram.com/alexbota960/)
