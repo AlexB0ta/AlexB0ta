@@ -26,6 +26,10 @@ Classic arcade snake game created using Python Pygame library.
 
 Security and alarm system activated by various events.
 
+### 5. [Secure-locker-application](https://github.com/AlexB0ta/Secure-locker-application)
+
+Developed a project that showcases the implementation of a secure locker system.
+
 ## Connect with Me
 
 - LinkedIn: [Alex Ionut Bota](https://www.linkedin.com/in/alexb0ta/)
