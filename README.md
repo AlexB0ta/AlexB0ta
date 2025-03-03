@@ -8,25 +8,37 @@
 
 ## My Repositories
 
-Here are some of the projects I've been working on:
+🛠️ Here are some of the projects I've been working on:
 
-### 1. [SpringBootWebProject](https://github.com/AlexB0ta/SpringBootWebProject)
+### 1. [Financial Tracker](https://github.com/AlexB0ta/Financial-Tracker)
+
+A web application that allows users to track their financial transactions, stocks, and cryptocurrency exchange rates and discover their ideal investments using an AI Chatbot.
+
+### 2.[Token Exchange](https://github.com/AlexB0ta/Token_Exchange/tree/main)
+
+Decentralized web application that operates on the Internet Computer blockchain.
+
+### 3. [SpringBootWebProject](https://github.com/AlexB0ta/SpringBootWebProject)
 
 Full-stack web application showcasing my proficiency in various technologies that allow users to perform various operations on an Oracle database for efficient data management.
 
-### 2. [Numbers Game](https://github.com/AlexB0ta/Numbers-Game)
+### 4. [Image Resizer](https://github.com/AlexB0ta/Image-Resizer)
+
+A hardware-accelerated image resizing system using the PYNQ-Z1 board.
+
+### 5. [Numbers Game](https://github.com/AlexB0ta/Numbers-Game)
 
 A simple game with a GUI for entertainment purposes using a framework in assembly.
 
-### 3. [Snake Game](https://github.com/AlexB0ta/Snake-Game)
+### 6. [Snake Game](https://github.com/AlexB0ta/Snake-Game)
 
 Classic arcade snake game created using Python Pygame library.
 
-### 4. [AntiTheftSystem-Arduino](https://github.com/AlexB0ta/AntiTheft-Arduino)
+### 7. [AntiTheftSystem-Arduino](https://github.com/AlexB0ta/AntiTheft-Arduino)
 
 Security and alarm system activated by various events.
 
-### 5. [Secure-locker-application](https://github.com/AlexB0ta/Secure-locker-application)
+### 8. [Secure-locker-application](https://github.com/AlexB0ta/Secure-locker-application)
 
 Developed a project that showcases the implementation of a secure locker system.
 
